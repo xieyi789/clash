@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 #影巢
 DOMAIN-SUFFIX,hdhive.online
+#docker域名
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,registry.hub.docker.com
